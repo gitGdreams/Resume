@@ -13,3 +13,11 @@ h3 {
 #summary {
     text-align: center;
 }
+
+#certifications {
+    text-align: center;
+}
+
+#certifications li {
+    list-style-type: none;
+}
